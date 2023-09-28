@@ -13,9 +13,10 @@
 </div>
 
 
-<div align="center">
-	
+<div align="center" style="padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=younha00&show_icons=true&theme=shadow_green" alt="Younha's GitHub stats">
 </div>
+
 <!--
 **younha00/younha00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
