@@ -1,8 +1,8 @@
 <!-- 헤더 -->
 <!-- <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YounHa&nbsp;Github!&fontSize=90" />
-</div>
-<div align=center> -->
+</div>  -->
+<div align=center>
 <!--소개-->
 
 ## Introduction :raised_hands:
