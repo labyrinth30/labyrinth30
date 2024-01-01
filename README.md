@@ -56,10 +56,10 @@ Hi, I am trying to become a nice developer😎
 
 <!-- 깃허브 스텟 -->
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younha00&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labyrinth30&layout=compact">
 </div><br><br>
 <div align="center" style="padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=younha00&show_icons=true&theme=shadow_green" alt="Younha's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=labyrinth30&show_icons=true&theme=shadow_green" alt="Younha's GitHub stats">
 </div>
 
 <!--
