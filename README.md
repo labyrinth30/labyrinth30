@@ -6,7 +6,9 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
+📈 폭풍 성장 중인 Developer 👨🏻‍💻 <br>
+✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃<br>
+📖 Study Hard!! ✏️ 🔥
 <br/><br/>
 </div>
 
@@ -31,25 +33,34 @@ Hi, I am trying to become a nice developer😎
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FIrebase&logoColor=white" />
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 </div>
+<br><br>
+<!-- 공부중 -->
+<div align=center>
+	<p>✏️ Currently Studying & Interested In ✏️ </p>
+</div>
+<div  align=center>
+	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4166666669E1?style=flat&logo=PostgreSQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 <br><br>
 
 
