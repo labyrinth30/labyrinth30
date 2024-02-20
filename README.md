@@ -7,8 +7,6 @@
 
 ## Introduction :raised_hands:
 📈 폭풍 성장 중인 Developer 👨🏻‍💻 <br>
-✋🏻 Through networking, I strive to share valuable knowledge with the aim of a development culture that grows together 😃<br>
-📖 Study Hard!! ✏️ 🔥
 <br/><br/>
 </div>
 
