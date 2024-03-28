@@ -6,8 +6,8 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-📈 폭풍 성장 중인 Developer 👨🏻‍💻 <br>
-<br/><br/>
+📈 폭풍 성장 중인 Developer 👨🏻‍💻<br />
+<br/>
 </div>
 
 <!-- 방문자 -->
@@ -31,8 +31,8 @@
 	<br>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-	<br>
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FIrebase&logoColor=white" />
@@ -55,6 +55,7 @@
 	<p>✏️ Currently Studying & Interested In ✏️ </p>
 </div>
 <div  align=center>
+	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
