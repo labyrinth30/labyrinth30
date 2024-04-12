@@ -6,8 +6,7 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-📈 폭풍 성장 중인 Developer 👨🏻‍💻<br />
-<br/>
+📈 폭풍 성장 중인 Developer 👨🏻‍💻
 </div>
 <!-- 방문자 -->
 <div align="center">
