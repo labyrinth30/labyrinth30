@@ -7,6 +7,9 @@
 
 ## Introduction :raised_hands:
 📈 폭풍 성장 중인 Developer 👨🏻‍💻
+</br>
+</br>
+<a href="https://velog.io/@ayeon0/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ayeon0/posts"/></a>
 </div>
 <!-- 방문자 -->
 <div align="center">
