@@ -63,10 +63,8 @@
 <div  align=center>
 	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongoDB&logoColor=white" />
 	<br />
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 <br><br>
 
