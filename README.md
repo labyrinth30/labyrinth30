@@ -49,7 +49,8 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GithubActions&logoColor=white" />
 </div>
 <br><br>
 <!-- 공부중 -->
@@ -58,10 +59,12 @@
 </div>
 <div  align=center>
 	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
-	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=DOcker&logoColor=white" />
 	<br />
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=html5&logoColor=white">
 <br><br>
 
 
