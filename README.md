@@ -31,24 +31,23 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=FIrebase&logoColor=white" />
- 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=html5&logoColor=white">
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+	<img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GithubActions&logoColor=white" />
 </div>
@@ -58,13 +57,13 @@
 	<p>✏️ Currently Studying & Interested In ✏️ </p>
 </div>
 <div  align=center>
-	<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white" />
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=DOcker&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
+	<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" />
 	<br />
-	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
-	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitmQ&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=html5&logoColor=white">
 <br><br>
 
 
