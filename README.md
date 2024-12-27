@@ -9,7 +9,7 @@
 📈 폭풍 성장 중인 Developer 👨🏻‍💻  
 </br>
 Google Developer Student Clubs 성공회대학교 2기 App 파트 Core Member (23.07 ~ 24.07)  
-Google Developer Groups 성공회대학교 3기 Organizer (24.08 ~ )
+Google Developer Groups on Campus 성공회대학교 3기 Organizer (24.08 ~ )
 </br>
 </br>
 <a href="https://velog.io/@ayeon0/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ayeon0/posts"/></a>
