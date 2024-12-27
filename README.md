@@ -7,6 +7,7 @@
 
 ## Introduction :raised_hands:
 📈 폭풍 성장 중인 Developer 👨🏻‍💻  
+</br>
 Google Developer Student Clubs 성공회대학교 2기 App 파트 Core Member (23.07 ~ 24.07)  
 Google Developer Groups 성공회대학교 3기 Organizer (24.08 ~ )
 </br>
