@@ -63,6 +63,7 @@ Google Developer Groups 성공회대학교 3기 Organizer (24.08 ~ )
 	<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white" />
 	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white" />
+	<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white" />
 	<br />
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white" />
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitmQ&logoColor=white" />
