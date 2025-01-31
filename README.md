@@ -9,6 +9,7 @@
 📈 폭풍 성장 중인 Developer 👨🏻‍💻  
 </br>
 Google Developer Student Clubs 성공회대학교 2기 App 파트 Core Member (23.07 ~ 24.07)  
+성공회대학교 제16회 소프트웨어경진대회 1등 (2024.05.07)
 Google Developer Groups on Campus 성공회대학교 3기 Organizer (24.08 ~ )
 </br>
 </br>
