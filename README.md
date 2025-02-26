@@ -14,7 +14,7 @@
 |성공회대학교 제16회 소프트웨어경진대회|1등|2024.05.07|
 |성공회대학교 IT 동아리 연합 주최 스쿠톤 0기|대상|2024.06.30|
 |Google Developer Groups on Campus 성공회대학교 3기|Organizer|2024.08 ~|
-|Mash-Up 15기 Node Team|Member|2025.03 ~|
+|Mash-Up 15기|Node Team|2025.03 ~|
 </br>
 </br>
 <a href="https://velog.io/@ayeon0/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ayeon0/posts"/></a>
