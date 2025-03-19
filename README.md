@@ -6,7 +6,8 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-📈 폭풍 성장 중인 Developer 👨🏻‍💻  
+**BackEnd Developer & NestJS Lover** ✨
+</br>
 </br>
 **Activities**
 |기간|대외활동|역할|
