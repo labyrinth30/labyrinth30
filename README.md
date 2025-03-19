@@ -12,10 +12,10 @@
 |기간|대외활동|역할|
 |------|---|---|
 |2025.03 ~ 2025.08|Mash-Up 15기|Node Team|
-|2023.07 ~ 2024.06|GDG on Campus SKHU 24-25(3기)|Organizer |
+|2023.07 ~ 2024.06|GDG on Campus SKHU 24-25 (3기)|Organizer |
 |2024.06.30|성공회대학교 IT 동아리 연합 주최 스쿠톤 0기|대상|
 |2024.05.07|성공회대하교 제16회 소프트웨어경진대회|1등|
-|2023.07 ~ 2024.06|GDG on Campus SKHU 23-24(2기)|Flutter Core Member|
+|2023.07 ~ 2024.06|GDG on Campus SKHU 23-24 (2기)|Flutter 파트 Core Member|
 </br>
 </br>
 <a href="https://velog.io/@ayeon0/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ayeon0/posts"/></a>
