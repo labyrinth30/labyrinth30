@@ -18,15 +18,7 @@
 |2024.05.07|성공회대학교 제16회 소프트웨어경진대회 1등|Flutter FrontEnd|
 |2023.07 ~ 2024.06|GDG on Campus SKHU 23-24 (2기)|Flutter 파트 Core Member|
 </br>
-</br>
-<a href="https://velog.io/@ayeon0/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ayeon0/posts"/></a>
-</div>
-<!-- 방문자 -->
-<div align="center">
-	<h3>Hits👏</h3>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounha00%2Fyounha00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
 <div align=center>
 <a href="https://github.com/devxb/gitanimals">
     <img src = "https://render.gitanimals.org/farms/labyrinth30"/>
