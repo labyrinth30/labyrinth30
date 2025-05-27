@@ -6,7 +6,7 @@
 <!--소개-->
 
 ## Introduction :raised_hands:
-**BackEnd Developer & NestJS Lover** ✨
+**Backend Developer & NestJS Lover** ✨
 </br>
 
 <!-- 기술스택 -->
@@ -16,10 +16,10 @@
 |기간|대외활동|역할|
 |------|---|---|
 |2025.03 ~ 2025.08|Mash-Up 15기|Node Team|
-|2023.07 ~ 2024.06|GDG on Campus SKHU 24-25 (3기)|Organizer |
-|2024.06.30|성공회대학교 IT 동아리 연합 주최 스쿠톤 0기 대상|NestJS BackEnd|
-|2024.05.07|성공회대학교 제16회 소프트웨어경진대회 1등|Flutter FrontEnd|
-|2023.07 ~ 2024.06|GDG on Campus SKHU 23-24 (2기)|Flutter 파트장|
+|2023.07 ~ 2024.06|GDG on Campus 성공회대학교 3기|Organizer |
+|2024.06.30|성공회대학교 IT 동아리 연합 주최 스쿠톤 0기 대상|NestJS Backend|
+|2024.05.07|성공회대학교 제16회 소프트웨어경진대회 1등|Flutter Frontend|
+|2023.07 ~ 2024.06|GDG on Campus 성공회대학교 2기|Flutter 파트장|
 </br>
 
 <div align=center>
