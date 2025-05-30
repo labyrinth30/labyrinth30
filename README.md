@@ -9,9 +9,8 @@
 **Backend Developer & NestJS Lover** ✨
 </br>
 
-<!-- 기술스택 -->
-<div align=center>
-	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ayeon0)](https://velog.io/@ayeon0)
+
 
 |기간|대외활동|역할|
 |------|---|---|
