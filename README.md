@@ -40,6 +40,16 @@
 - 타임캡슐 서비스 백엔드 — Zod 기반 Schema-Driven 설계로 OpenAPI 자동 생성 및 익명 메시지 시스템 구현
 - `Express 5` `TypeScript` `PostgreSQL` `Redis` `Zod` `OpenAPI` `Docker`
 
+## 🏆 Activities
+
+| 기간 | 대외활동 | 역할 |
+|------|---|---|
+| 2025.02 ~ | IT 연합 동아리 Mash-Up | Node Team |
+| 2024.06.30 | 성공회대학교 IT 동아리 연합 주최 스쿠톤 0기 **대상** | NestJS Backend |
+| 2024.05.07 | 성공회대학교 제16회 소프트웨어경진대회 **1등** | Flutter Frontend |
+| 2023.07 ~ 2024.06 | GDG on Campus 성공회대학교 3기 | Organizer |
+| 2023.07 ~ 2024.06 | GDG on Campus 성공회대학교 2기 | Flutter 파트장 |
+
 ## 📚 Latest Study
 
 - [당신의 API 때문에 유저에게 서비스 규모를 들키고 있습니다 — NestJS에서 PK 암호화하기](https://velog.io/@ayeon0/PK%EB%A5%BC-%EC%88%A8%EA%B2%A8%EB%B3%B4%EC%9E%90-NestJS%EC%97%90%EC%84%9C)
