@@ -8,11 +8,12 @@
 
 - **2026.04 ~ Present: [Purple Academy](https://www.purpleacademy.co.kr/)**
   - Backend Team, System Development Dept.
-    - 고객 관리 시스템 (CRM)
-    - 콘텐츠 관리 시스템 (CMS)
-    - 학습 관리 시스템 (LMS)
-    - 경영지원 시스템 (결제 및 정기결제 관리)
+    - 고객 관리 시스템(CRM)
+    - 교육 콘텐츠 관리 시스템(CMS)
+    - 학습 관리 시스템(LMS)
+    - 결제 및 구독 관리 시스템
     - [Purple English](https://purpleenglish.co.kr/) 레거시 서비스 운영 및 개선
+    - AWS와 Kubernetes 기반 배포 자동화 확장 및 DB 마이그레이션 자동화
 
 ### Projects
 
