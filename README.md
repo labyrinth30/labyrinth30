@@ -12,13 +12,18 @@
     - 콘텐츠 관리 시스템 (CMS)
     - 학습 관리 시스템 (LMS)
     - 경영지원 시스템 (결제 및 정기결제 관리)
+    - 정기결제 실패 복구 및 사용자 재결제
+    - 운영자용 결제 권한 관리
+    - 대량 데이터 내보내기 및 조회 성능 개선
+    - DB 마이그레이션 실행 자동화
+    - [Purple English](https://purpleenglish.co.kr/) 레거시 서비스 운영 및 개선
 
 ### Projects
 
 - **GGUK(꾹)** (Mash-Up 16기, Backend)
   - 친구와 함께 가고 싶은 장소를 저장하고 공유하는 앱
   - [App Store](https://apps.apple.com/kr/app/id6806306129) / [GitHub](https://github.com/mash-up-kr/Team-MINO-Node)
-- **kokkok** (Mash-Up 15기, Backend)
+- **KOKKOK(콕콕)** (Mash-Up 15기, Backend)
   - 친구들과 예약 일정을 공유하고, 준비 상태부터 성공 여부까지 함께 확인하는 앱
   - [GitHub](https://github.com/mash-up-kr/HGDGDS-Node)
 
