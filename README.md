@@ -19,7 +19,7 @@
 
 - **GGUK(꾹)** (Mash-Up 16기, Backend)
   - 친구와 함께 가고 싶은 장소를 저장하고 공유하는 앱
-  - [App Store](https://apps.apple.com/kr/app/id6806306129) / [GitHub](https://github.com/mash-up-kr/Team-MINO-Node)
+  - [App Store](https://apps.apple.com/kr/app/id6806306129) / [Google Play](https://play.google.com/store/apps/details?id=com.mino.gguk) / [GitHub](https://github.com/mash-up-kr/Team-MINO-Node)
 - **KOKKOK(콕콕)** (Mash-Up 15기, Backend)
   - 친구들과 예약 일정을 공유하고, 준비 상태부터 성공 여부까지 함께 확인하는 앱
   - [GitHub](https://github.com/mash-up-kr/HGDGDS-Node)
