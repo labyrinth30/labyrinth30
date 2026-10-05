@@ -3,6 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:younha0088@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1477D1?style=flat-square)](https://www.linkedin.com/in/labyrinth30)
 [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat)](https://velog.io/@ayeon0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-labyrinth30.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://labyrinth30.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1kYnUm-IK2uceAIyxZaXZzRrvJrox-Iqf/view?usp=sharing)
 
 ### Career
 
